@@ -1,6 +1,6 @@
 @font-face {
   font-family: SourceSansPro;
-  src: url(SourceSansPro-Regular.ttf);
+  src: url(https://s3-eu-west-1.amazonaws.com/htmlpdfapi.production/free_html5_invoice_templates/example2/SourceSansPro-Regular.ttf);
 }
 
 .clearfix:after {
